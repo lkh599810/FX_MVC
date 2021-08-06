@@ -9,23 +9,30 @@
 
 # 실행파일 사진
 
-### 회원
+# 회원
 
 #### - 메인
 ![메인](https://user-images.githubusercontent.com/80736178/128502926-d629e6a1-d5a3-4205-bf56-28cf331d70ff.png)
 
 
-####-회원가입
+#### -회원가입
+
 ![회원가입](https://user-images.githubusercontent.com/80736178/128503089-b89b60a4-e53b-422c-9b4b-7e6768511e77.png)
 
+
 #### - 로그인
+
+
 ![로그인](https://user-images.githubusercontent.com/80736178/128503063-d78cc92b-ad9d-41d7-ad3d-85f9a78e1a62.png)
 
+
 #### - 회원정보
+
+
 ![회원정보](https://user-images.githubusercontent.com/80736178/128502929-086b60f4-2774-4e8d-b802-1c04f4396fdd.png)
 
 
-### 게시판(CRUD)
+# 게시판(CRUD)
 
 
 #### - 게시판리스트
