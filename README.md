@@ -44,7 +44,7 @@
 #### - 작성완료
 ![작성완료](https://user-images.githubusercontent.com/80736178/128502935-5beb29d1-48b8-4f30-a2c4-0de53f8f6036.png)
 
-#### - 조회 [Read]
+#### - 조회 [Read]  ==> 조회 시 조회수 +1
 ![상세보기](https://user-images.githubusercontent.com/80736178/128502936-be57522b-db02-42b4-8b0b-28109ff88c38.png)
 
 
